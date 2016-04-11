@@ -1,0 +1,2 @@
+# CornerSoloist
+Basic right angles.
